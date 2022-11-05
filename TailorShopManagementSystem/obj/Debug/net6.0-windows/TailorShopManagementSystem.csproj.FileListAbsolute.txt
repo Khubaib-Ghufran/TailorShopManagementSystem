@@ -1,0 +1,17 @@
+C:\Users\khuba\source\repos\TailorShopManagementSystem\TailorShopManagementSystem\bin\Debug\net6.0-windows\TailorShopManagementSystem.exe
+C:\Users\khuba\source\repos\TailorShopManagementSystem\TailorShopManagementSystem\bin\Debug\net6.0-windows\TailorShopManagementSystem.deps.json
+C:\Users\khuba\source\repos\TailorShopManagementSystem\TailorShopManagementSystem\bin\Debug\net6.0-windows\TailorShopManagementSystem.runtimeconfig.json
+C:\Users\khuba\source\repos\TailorShopManagementSystem\TailorShopManagementSystem\bin\Debug\net6.0-windows\TailorShopManagementSystem.dll
+C:\Users\khuba\source\repos\TailorShopManagementSystem\TailorShopManagementSystem\bin\Debug\net6.0-windows\TailorShopManagementSystem.pdb
+C:\Users\khuba\source\repos\TailorShopManagementSystem\TailorShopManagementSystem\obj\Debug\net6.0-windows\TailorShopManagementSystem.csproj.AssemblyReference.cache
+C:\Users\khuba\source\repos\TailorShopManagementSystem\TailorShopManagementSystem\obj\Debug\net6.0-windows\TailorShopManagementSystem.Form1.resources
+C:\Users\khuba\source\repos\TailorShopManagementSystem\TailorShopManagementSystem\obj\Debug\net6.0-windows\TailorShopManagementSystem.csproj.GenerateResource.cache
+C:\Users\khuba\source\repos\TailorShopManagementSystem\TailorShopManagementSystem\obj\Debug\net6.0-windows\TailorShopManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khuba\source\repos\TailorShopManagementSystem\TailorShopManagementSystem\obj\Debug\net6.0-windows\TailorShopManagementSystem.AssemblyInfoInputs.cache
+C:\Users\khuba\source\repos\TailorShopManagementSystem\TailorShopManagementSystem\obj\Debug\net6.0-windows\TailorShopManagementSystem.AssemblyInfo.cs
+C:\Users\khuba\source\repos\TailorShopManagementSystem\TailorShopManagementSystem\obj\Debug\net6.0-windows\TailorShopManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\khuba\source\repos\TailorShopManagementSystem\TailorShopManagementSystem\obj\Debug\net6.0-windows\TailorShopManagementSystem.dll
+C:\Users\khuba\source\repos\TailorShopManagementSystem\TailorShopManagementSystem\obj\Debug\net6.0-windows\refint\TailorShopManagementSystem.dll
+C:\Users\khuba\source\repos\TailorShopManagementSystem\TailorShopManagementSystem\obj\Debug\net6.0-windows\TailorShopManagementSystem.pdb
+C:\Users\khuba\source\repos\TailorShopManagementSystem\TailorShopManagementSystem\obj\Debug\net6.0-windows\TailorShopManagementSystem.genruntimeconfig.cache
+C:\Users\khuba\source\repos\TailorShopManagementSystem\TailorShopManagementSystem\obj\Debug\net6.0-windows\ref\TailorShopManagementSystem.dll
